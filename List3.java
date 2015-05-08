@@ -1,8 +1,5 @@
-/* The point of this class is to introduce 3 new methods that
-   can be useful for lists. This class was written by Michael Brown*/
 public class List3 
-{ //beginning of class
-
+{ 
 	public static void main(String[] args) 
 	{
 		List<Integer> listA= new LList<Integer>();
